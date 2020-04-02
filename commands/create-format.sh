@@ -5,7 +5,7 @@ mkdir data/output
 mkdir config
 mkdir features
 mkdir models
-mkdir edas
+mkdir notebooks
 mkdir logs
 mkdir script
 # download utils 
